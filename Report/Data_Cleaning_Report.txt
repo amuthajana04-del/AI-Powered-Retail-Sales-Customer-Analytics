@@ -1,0 +1,47 @@
+DATA CLEANING REPORT
+==================================================
+
+Total Records : 9994
+Total Columns : 21
+
+Missing Values
+-----------------
+Row ID           0
+Order ID         0
+Order Date       0
+Ship Date        0
+Ship Mode        0
+Customer ID      0
+Customer Name    0
+Segment          0
+Country          0
+City             0
+State            0
+Postal Code      0
+Region           0
+Product ID       0
+Category         0
+Sub-Category     0
+Product Name     0
+Sales            0
+Quantity         0
+Discount         0
+Profit           0
+dtype: int64
+
+Category Sales
+-----------------
+Category
+Furniture          741999.7953
+Office Supplies    719047.0320
+Technology         836154.0330
+Name: Sales, dtype: float64
+
+Region Profit
+-----------------
+Region
+Central     39706.3625
+East        91522.7800
+South       46749.4303
+West       108418.4489
+Name: Profit, dtype: float64
