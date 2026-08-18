@@ -1,0 +1,6 @@
+,Sales,Sales,Profit,Profit,Quantity,Customer ID
+,sum,mean,sum,mean,sum,nunique
+Segment,,,,,,
+Consumer,1161401.34,223.73,134119.21,25.84,19521,409
+Corporate,706146.37,233.82,91979.13,30.46,11608,236
+Home Office,429653.15,240.97,60298.68,33.82,6744,148

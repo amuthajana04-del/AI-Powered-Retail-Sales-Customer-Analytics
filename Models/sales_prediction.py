@@ -16,7 +16,7 @@ os.makedirs("./trained_models", exist_ok=True)
 # Load Dataset
 # -------------------------------
 
-df = pd.read_csv("../Dataset/Cleaned_Superstore.csv", encoding="latin1")
+df = pd.read_csv("Dataset/Cleaned_Superstore.csv", encoding="latin1")
 
 print("="*50)
 print("DATASET LOADED")
